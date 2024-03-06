@@ -3,6 +3,9 @@
 ## Description
 This project is a clone of the Target an e-commerce website, created for HTML and CSS practice. It replicates the layout and design of the Target, including the navigation section, Shopping cart section, and footer.
 
+## GitHub Pages
+
+You can view the website live on GitHub Pages: https://sammaiah-guguloth.github.io/TargetClone/
 
 ## Credits
 - This project was created by [ Sammaiah Guguloth].
